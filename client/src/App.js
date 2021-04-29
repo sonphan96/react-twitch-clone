@@ -23,9 +23,7 @@ const App = () => {
         </div>
       </BrowserRouter>
     </div>
-  )
+  );
 };
 
 export default App;
-
-// OAuth: 160386881357-6vfp0vj8ctco726in837um02jfn96glf.apps.googleusercontent.com
