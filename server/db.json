@@ -6,11 +6,6 @@
       "id": 1
     },
     {
-      "title": "Another stream",
-      "description": "Another stream ",
-      "id": 2
-    },
-    {
       "title": "I created this stream EDITED",
       "description": "This was made by me! EDITED",
       "id": 6
@@ -20,12 +15,6 @@
       "description": "You should not see this on the form page",
       "userId": "110246164849665391310",
       "id": 7
-    },
-    {
-      "title": "Another One",
-      "description": "Another One",
-      "userId": "110246164849665391310",
-      "id": 8
     },
     {
       "title": "Component Reuse EDITED",
